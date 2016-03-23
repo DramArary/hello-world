@@ -1,3 +1,3 @@
 # hello-world
-hello everyone
+hello everyone just pratice
 Just another repository
